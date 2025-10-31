@@ -20,16 +20,16 @@ I wanted to be able to find assets, especially Texture2D, more easily by having 
 
 Some reported numbers from the AssetMap might be a bit skewed, due to the inclusion of files like resources.assets.
 
-| typeID        | File Types                                                                                              | AssetMap Total | Remaining | % Done |
-| ------------- | ------------------------------------------------------------------------------------------------------- | -------------- | --------- | ------ |
-| AnimationClip | .fbx, .anim                                                                                             | 27,171         | 10,415    | 61.67% |
-| Animator      | .fbx, .prefab                                                                                           | 5,749          | 2,533     | 55.95% |
-| Material      | .mat                                                                                                    | 41,688         | 22,109    | 46.95% |
-| Mesh          | .fbx, .mesh                                                                                             | 97,561         | 67,698    | 30.61% |
-| MonoBehaviour | .asset, .playable, .prefab                                                                              | 95,638         | 29,985    | 68.65% |
-| TextAsset     | .bytes, .csv, .html, .json, .txt                                                                        | 14,883         | 4,530     | 69.57% |
-| Texture2D     | .jpg, .png, .psd, .tga                                                                                  | 49,658         | 11,685    | 76.47% |
-| TOTAL         | .anim, .asset, .bytes, .fbx, .jpg, .json, .mat, .mesh,<br />.playable, .png, .prefab, .psd, .tga, .txt | 332,348        | 148,955   | 55.19% |
+| typeID        | File Types                                                                                                             | AssetMap Total | Remaining | % Done |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------- | --------- | ------ |
+| AnimationClip | .fbx, .anim                                                                                                            | 27,171         | 10,415    | 61.67% |
+| Animator      | .fbx, .prefab                                                                                                          | 5,749          | 2,533     | 55.95% |
+| Material      | .mat                                                                                                                   | 41,688         | 22,109    | 46.95% |
+| Mesh          | .fbx, .mesh                                                                                                            | 97,561         | 67,698    | 30.61% |
+| MonoBehaviour | .asset, .playable, .prefab                                                                                             | 95,638         | 29,985    | 68.65% |
+| TextAsset     | .bytes, .csv, .html, .json, .txt                                                                                       | 14,883         | 4,530     | 69.57% |
+| Texture2D     | .jpg, .png, .psd, .tga                                                                                                 | 49,658         | 11,685    | 76.47% |
+| TOTAL         | .anim, .asset, .bytes, .csv, .fbx, .html, .jpg, .json, .mat, .mesh,<br />.playable, .png, .prefab, .psd, .tga, .txt | 332,348        | 148,955   | 55.19% |
 
 ### AssetMap
 
