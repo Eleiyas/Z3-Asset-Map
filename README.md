@@ -70,3 +70,11 @@ I have been unable to find the paths for these files:
 | Various EFF/VX/Mask/HLOD textures/materials | 2000+  |
 | Agent Mindscape Images                      | ~150   |
 | All Live2D spines/atlases/skeletons         | A lot  |
+
+## Credits
+
+* Escartem: Anime studio and helping with Monos and fixes.
+* yarik0chka: Some files.
+* Dimbreath: Z3 Data
+* Hrothgar: Assisting where possible.
+* undefined9071: Help with Monos.
