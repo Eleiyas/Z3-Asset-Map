@@ -27,7 +27,7 @@ Some reported numbers from the AssetMap might be a bit skewed, due to the inclus
 | Material      | .mat                                                                                                    | 41,688         | 22,109    | 46.95% |
 | Mesh          | .fbx, .mesh                                                                                             | 97,561         | 67,698    | 30.61% |
 | MonoBehaviour | .asset, .playable, .prefab                                                                              | 95,638         | 29,985    | 68.65% |
-| TextAsset     | .bytes, .json, .txt                                                                                     | 14,883         | 4,530     | 69.57% |
+| TextAsset     | .bytes, .csv, .html, .json, .txt                                                                        | 14,883         | 4,530     | 69.57% |
 | Texture2D     | .jpg, .png, .psd, .tga                                                                                  | 49,658         | 11,685    | 76.47% |
 | TOTAL         | .anim, .asset, .bytes, .fbx, .jpg, .json, .mat, .mesh,<br />.playable, .png, .prefab, .psd, .tga, .txt | 332,348        | 148,955   | 55.19% |
 
